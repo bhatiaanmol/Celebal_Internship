@@ -20,3 +20,12 @@ This repository contains the assignments completed during my internship at Celeb
 - Data validation
 
 **Tools Used:** MySQL, MySQL Workbench
+
+### Assignment-3: SQL Subqueries, CTEs, and Window Functions
+- Subqueries for data analysis
+- Common Table Expressions (CTEs)
+- Window Functions (ROW_NUMBER, DENSE_RANK)
+- JOIN operations
+- Customer sales analysis and business queries
+
+**Tools Used:** MySQL, MySQL Workbench
