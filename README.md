@@ -29,3 +29,17 @@ This repository contains the assignments completed during my internship at Celeb
 - Customer sales analysis and business queries
 
 **Tools Used:** MySQL, MySQL Workbench
+
+### Assignment-4: Azure Cloud Fundamentals and Data Pipeline Implementation
+- Created and managed Azure Resource Group
+- Configured Azure Storage Account and Blob Containers
+- Uploaded and managed source CSV dataset
+- Created Azure Data Factory and explored Author, Manage, and Monitor modules
+- Configured Linked Services and Source/Destination Datasets
+- Retrieved file metadata using Get Metadata activity
+- Built an end-to-end data pipeline using Copy Data activity
+- Executed and monitored pipeline using Debug and Trigger
+- Configured IAM roles (Storage Blob Data Reader & Contributor)
+- Implemented metadata validation and verified successful data transfer from Blob Storage to the destination container
+
+**Tools Used:** Microsoft Azure, Azure Storage Account, Azure Blob Storage, Azure Data Factory (ADF)
