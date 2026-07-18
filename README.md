@@ -43,3 +43,17 @@ This repository contains the assignments completed during my internship at Celeb
 - Implemented metadata validation and verified successful data transfer from Blob Storage to the destination container
 
 **Tools Used:** Microsoft Azure, Azure Storage Account, Azure Blob Storage, Azure Data Factory (ADF)
+
+### Assignment-5: Apache Spark Fundamentals and Data Processing
+- Understood the limitations of MapReduce and advantages of Apache Spark
+- Worked with Spark DataFrames and explored DataFrame immutability
+- Performed data cleaning by removing duplicates and handling null values
+- Applied filtering operations using multiple conditions
+- Used aggregation functions such as COUNT, SUM, AVG, MIN, and MAX
+- Grouped data using `groupBy()` and applied aggregations
+- Learned about shuffle operations and wide transformations in Spark
+- Modified DataFrame schema by casting data types and renaming columns
+- Handled inconsistent and missing data during preprocessing
+- Built a complete data processing pipeline combining cleaning, transformation, and aggregation
+
+**Tools Used:** Python, PySpark, Apache Spark, Google Colab
