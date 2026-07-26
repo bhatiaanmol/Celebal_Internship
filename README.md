@@ -57,3 +57,17 @@ This repository contains the assignments completed during my internship at Celeb
 - Built a complete data processing pipeline combining cleaning, transformation, and aggregation
 
 **Tools Used:** Python, PySpark, Apache Spark, Google Colab
+
+### Assignment-6: Apache Spark Architecture and DataFrame Operations
+- Explored Apache Spark Architecture including Driver, Cluster Manager, and Executors
+- Understood Lazy Evaluation and the difference between Transformations and Actions
+- Read and wrote CSV and Parquet files using Spark DataFrames
+- Compared CSV and Parquet file formats for big data processing
+- Applied filtering using single and multiple conditions
+- Created new columns and modified existing DataFrame schemas
+- Learned Predicate Pushdown and its impact on query performance
+- Understood Spark fault tolerance using the Lineage Graph (DAG)
+- Compared Client Mode and Cluster Mode in Spark
+- Performed end-to-end DataFrame operations including reading, filtering, transforming, and writing data
+
+**Tools Used:** Python, PySpark, Apache Spark, Google Colab
