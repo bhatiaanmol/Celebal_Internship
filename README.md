@@ -71,3 +71,17 @@ This repository contains the assignments completed during my internship at Celeb
 - Performed end-to-end DataFrame operations including reading, filtering, transforming, and writing data
 
 **Tools Used:** Python, PySpark, Apache Spark, Google Colab
+
+
+### Assignment-7: Delta Lake MERGE Implementation
+- Loaded the Superstore dataset into a Spark DataFrame
+- Performed data quality checks by validating null values and duplicate records
+- Cleaned the dataset and renamed columns for Delta Lake compatibility
+- Created and stored the dataset as a Delta table in Databricks
+- Simulated incremental data by creating updated and new records
+- Performed UPSERT operations using the Delta Lake `MERGE` command
+- Validated the MERGE results by verifying updated and inserted records
+- Checked the final row count and ensured no duplicate `Row_ID` values
+- Demonstrated incremental data processing using Delta Lake
+
+**Tools Used:** Databricks, Apache Spark (PySpark), Delta Lake, Python
