@@ -85,3 +85,20 @@ This repository contains the assignments completed during my internship at Celeb
 - Demonstrated incremental data processing using Delta Lake
 
 **Tools Used:** Databricks, Apache Spark (PySpark), Delta Lake, Python
+
+### Assignment-8: E-Commerce Order Analytics System
+
+- Generated realistic e-commerce datasets for customers, products, orders, and order items with intentional data inconsistencies
+- Performed data cleaning and validation using Pandas, including missing values, duplicate records, invalid dates, and inconsistent product names
+- Validated customer emails and checked referential integrity between orders and order items
+- Stored cleaned datasets in a SQLite database for further analysis
+- Performed revenue, customer, product, return rate, and monthly order analysis using SQL
+- Implemented complex SQL queries using JOINs, CTEs, aggregations, and window functions
+- Used `DENSE_RANK`, `LAG`, `FIRST_VALUE`, and `NTILE` for advanced customer and product analysis
+- Performed customer segmentation, Year-over-Year revenue comparison, cumulative revenue analysis, and cohort retention analysis
+- Identified products frequently purchased together using self-joins
+- Built a command-line reporting tool for daily, weekly, and monthly reports with custom date ranges
+- Generated report metrics including total orders, revenue, unique customers, top products, and previous-period revenue comparison
+- Implemented edge-case validation for invalid order references, discount percentages, zero quantities, and future order dates
+
+**Tools Used:** Python, Pandas, SQL, SQLite, VS Code

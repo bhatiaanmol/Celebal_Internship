@@ -1,0 +1,4 @@
+Missing customer IDs: 56
+Invalid order dates: 0
+Invalid emails: 10
+Invalid order_items references: 0
